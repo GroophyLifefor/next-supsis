@@ -1,5 +1,7 @@
 # Next-Supsis
 
+![NPM Version](https://img.shields.io/npm/v/next-supsis)
+
 Next-Supsis is a library for Supsis integration with Next.js.
 
 ## Installation
