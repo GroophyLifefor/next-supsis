@@ -1,6 +1,6 @@
-import { SupsisProps } from './Supsis.types';
+import React from 'react';
 
-export default function Supsis({ src }: SupsisProps) {
+export function Supsis({src}: {src: string}) {
   return (
     <>
       <script
