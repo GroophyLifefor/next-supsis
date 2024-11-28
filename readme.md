@@ -2,6 +2,8 @@
 
 ![NPM Version](https://img.shields.io/npm/v/next-supsis)
 
+![Murat Kirazkaya](https://aad-ext.vercel.app/muratkirazkaya.svg)
+
 Next-Supsis is a library for Supsis integration with Next.js.
 
 ## Installation
