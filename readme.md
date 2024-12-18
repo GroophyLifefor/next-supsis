@@ -4,6 +4,9 @@
 
 ![Murat Kirazkaya](https://aad-ext.vercel.app/muratkirazkaya.svg)
 
+> [!NOTE]  
+> Sorry for the advertising, I'm trying to promote my product too. [Visit](https://aad-ext.vercel.app/store)
+
 Next-Supsis is a library for Supsis integration with Next.js.
 
 ## Installation
