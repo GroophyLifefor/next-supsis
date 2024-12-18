@@ -6,6 +6,8 @@
 
 > [!NOTE]  
 > Sorry for the advertising, I'm trying to promote my product too. [Visit](https://aad-ext.vercel.app/store)
+> 
+> <kbd>Scroll down to see library.</kbd>
 
 Next-Supsis is a library for Supsis integration with Next.js.
 
